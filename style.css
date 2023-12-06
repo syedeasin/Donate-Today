@@ -235,3 +235,26 @@ input[type="email"] {
 #form-btn:hover {
   background: #e04e4e;
 }
+
+/* Footer Section CSS */
+.simple-footer {
+  background: #0b0d17;
+  padding: 44px 0;
+}
+.simple-footer h2 {
+  color: #ff5959;
+  font-family: "Oswald", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: -1px;
+  text-transform: uppercase;
+}
+
+.simple-footer p {
+  color: #d9dbe1;
+  font-family: poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
